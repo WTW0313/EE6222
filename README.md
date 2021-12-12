@@ -1,2 +1,3 @@
-# EE6222
-NTU EEE CCA EE6222 Machine Vision
+# EE6222 Machine Vision
+
+2021 ~ 2022 Two assignments, no quizzes.
